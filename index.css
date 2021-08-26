@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "Bitstream Vera Serif Bold";
+    src: url("https://mdn.mozillademos.org/files/2468/VeraSeBd.ttf");
+}
+@font-face {
+  font-family: "Open Sans";
+  src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2"),
+       url("/fonts/OpenSans-Regular-webfont.woff") format("woff");
+}
+h1 { font-family: "Bitstream Vera Serif Bold", ; text-align: center; color: rgb(43, 43, 43);}
+h2 { text-align: center; }
+h3 { text-align: center; }
+i { color: rgb(255, 115, 0);}
