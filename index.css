@@ -8,6 +8,10 @@
        url("/fonts/OpenSans-Regular-webfont.woff") format("woff");
 }
 h1 { font-family: "Bitstream Vera Serif Bold", ; text-align: center; color: rgb(43, 43, 43);}
-h2 { text-align: center; }
-h3 { text-align: center; }
+h2 { font-family: Geramond, serif; text-align: center; }
+h3 { text-align: center; color: rgb(43, 43, 43)}
 i { color: rgb(255, 115, 0);}
+u { color: rgb(50, 212, 0)}
+ol { font-family: "Bitstream Vera Serif Bold", ; color: rgb(43, 43, 43); }
+ul { font-family: "Bitstream Vera Serif Bold", ; color: rgb(43, 43, 43); }
+p { text-align: center; color: rgb(43, 43, 43)}
